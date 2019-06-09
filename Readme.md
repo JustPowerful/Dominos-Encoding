@@ -1,6 +1,6 @@
 ## Dominos Encoding Algorithm
 
-using this program is verry easy , you just need to use the functions of ** func.cs ** you can find an example on ** Program.cs **
+using this program is verry easy , you just need to use the functions of _**func.cs**_ you can find an example on _**Program.cs**_
 
 ### Function are :
 - func.Encode()
