@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\ME\\Coding & Development\\Encoding & Cryptography\\Dominos_Algorithm\\Dominos_Algorithm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\ME\\Coding & Development\\Encoding & Cryptography\\Dominos_Algorithm\\Dominos_Algorithm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ME\\Coding & Development\\Encoding & Cryptography\\Dominos_Algorithm\\Dominos_Algorithm.csproj",
+        "projectName": "Dominos_Algorithm",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ME\\Coding & Development\\Encoding & Cryptography\\Dominos_Algorithm\\Dominos_Algorithm.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ME\\Coding & Development\\Encoding & Cryptography\\Dominos_Algorithm\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
