@@ -20,6 +20,7 @@ namespace dominus {
   // -- to swtich between numbers
   public static string TEalpha;
   public static string TEbinary;
+	  
   // decoded var
   public static string TEddominus;
 
