@@ -10,6 +10,6 @@ using this program is verry easy , you just need to use the functions of ** func
 
 it just takes the binary strings and switchs the values like this :
 
-![Example Image] (http://www.mediafire.com/convkey/094f/sqfc8nj53aq3td6zg.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 and then it converts the switched code into a hexadecimal code.
