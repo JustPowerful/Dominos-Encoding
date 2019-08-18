@@ -6,7 +6,7 @@ You just need to use the functions in _**func.cs**_ you can find an example on _
 - Encode()
 - Decode()
 
-### How the algorithm works ?
+### How the program works ?
 
 it takes the 1s and turn them to 0s, same thing with 0s :
 
