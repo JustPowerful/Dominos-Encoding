@@ -8,7 +8,7 @@ You just need to use the functions in _**func.cs**_ you can find an example on _
 
 ### How the algorithm works ?
 
-it takes the 1s and turn them to 0s, same thing to 0s :
+it takes the 1s and turn them to 0s, same thing with 0s :
 
 ![Image of The Algorithm](https://www.mediafire.com/convkey/094f/sqfc8nj53aq3td6zg.jpg)
 
