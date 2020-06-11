@@ -1,3 +1,5 @@
+**Warning :** This is an old project, so there might be a lot of bugs.
+
 ## About :
 Its just a binary shifting program, but it converts the binary into hex codes to make it harder to decode.
 You just need to use the **func** class in _**func.cs**_ you can find an example on _**Program.cs**_
@@ -20,4 +22,4 @@ and then it converts the switched code into a hexadecimal code.
 - Other ..
 
 
-**Warning :** This is an old project, so there might be a lot of bugs.
+
